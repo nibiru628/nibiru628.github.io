@@ -1,0 +1,14 @@
+body {
+    background-color: #89e9e9;
+    display: flexbox;
+    font-family: Georgia, serif;
+    font-size: medium;
+}
+
+#titulo {
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
